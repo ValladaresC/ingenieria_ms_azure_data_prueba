@@ -57,5 +57,26 @@
   <img src="https://github.com/user-attachments/assets/c2e9fac8-3119-4957-9b85-4ed72f963611">
 </p>
 
+### Imagen 08 y 09. Creación del data sets proveniente de la base de datos en Azure sql
+
+### Sin parámetros para que pueda recorrer todas las tablas de la base de datos.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b9d4440-b1d8-481c-8a3d-85426cdbe50b">
+</p>
+
+### Con parámetros para que obtenga los nombres de las tablas de la base de datos.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0db946d8-ce17-4895-86b5-5b2e2bd3525b">
+</p>
+
+### Imagen 10. Carga del data ser generado en ADLS
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09c5d4ac-67e5-4f64-8bc1-1dfc1a64483f">
+</p>
+
+### Imagen 11. 
 
 
