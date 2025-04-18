@@ -90,7 +90,7 @@
 </p>
 
 > [!NOTE]
-> El linked service lksv_asql_01 tiene establecido la base de datos Azure SQL a la cual debe conectarse. Como opción, pudo haberse establecido como parámetro .
+> El linked service lksv_asql_01 tiene establecido la base de datos Azure SQL a la cual debe conectarse. Como opción, pudo haberse establecido como parámetro.
 
 ### Imagen 12. Creación del Azure Data Lake Storage, adlseu2dsrpd01cv
 
@@ -129,7 +129,7 @@
 </p>
 
 > [!NOTE]
-> El archivo Conect_Read_Load_ADLS_DBricks.dbc se encuentra en los descargables de este proyecto
+> El archivo Conect_Read_Load_ADLS_DBricks se encuentra en la carpeta Notebooks de este proyecto en dos versione .dbc y .ipynb
 
 ### Imagen 19 y 20. El pipeline incluye trigger y notificación mediante e-mail
 
