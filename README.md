@@ -77,6 +77,19 @@
   <img src="https://github.com/user-attachments/assets/09c5d4ac-67e5-4f64-8bc1-1dfc1a64483f">
 </p>
 
-### Imagen 11. 
+### Imagen 11. Creación del pipeline, pip-sql-a-adls-csv
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8ac56a5-b991-4522-94fe-ee979659c598">
+</p>
+
+### Explicación gráfica del pipeline en Azure Data Factory
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3825e2fe-9eb4-43c9-bcfa-8e700282fd8d">
+</p>
+
+
+
 
 
