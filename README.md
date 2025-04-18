@@ -94,6 +94,44 @@
 
 ### Imagen 12. Creación del Azure Data Lake Storage, adlseu2dsrpd01cv
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/feac3961-425e-47b0-bf51-3de3552f5489">
+</p>
+
+### Imagen 13 y 14. Creación del contenedor 'data' y directorio 'archivoscsv'
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d8c4565-f73f-46fe-a174-fb357ad3f49c">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67541c1f-503d-48dc-b135-3b2b08a4b987">
+</p>
+
+### Imagen 15 y 16. Carga de los archivos .csv mediante ejecución del pipeline
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d97b5374-22cd-4017-b9a1-f3c42b586b51">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bac2c368-c268-4b72-b917-77eb4d8bb1e9">
+</p>
+
+### Imagen 17 y 18. Creación del Databricks dataflow, pipeline-lakehouse-cv, para ejecutar el notebook Conect_Read_Load_ADLS_DBricks, que lleva los archivos .csv en el ADSL hacia Databricks
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4410b545-321b-4a0c-9de4-8574829b8211">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1913f3c9-9f97-4ea1-bd2b-2cd20316b16d">
+</p>
+
+
+
+
+
 
 
 
