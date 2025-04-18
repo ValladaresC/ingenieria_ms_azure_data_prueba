@@ -141,37 +141,37 @@
   <img src="https://github.com/user-attachments/assets/e95ff026-da03-4948-8ac6-8b5f820d7f8e">
 </p>
 
-### 21. Creación del Cluster, carlos valladares's Cluster 14.3LTS
+### Imagen 21. Creación del Cluster, carlos valladares's Cluster 14.3LTS
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f79bff1f-be0b-4e07-9fa9-93403453fa31">
 </p>
 
-### 22. Creación de la carpeta poryecto en Workspace y notebook Conect_Read_Load_ADLS_DBricks
+### Imagen 22. Creación de la carpeta poryecto en Workspace y notebook Conect_Read_Load_ADLS_DBricks
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e233dcf-e075-45a5-858e-91c8551fdb94">
 </p>
 
-### 23. Ejecución del notebook mediante el pipeline (dataflow) y generación de tabla delta (delta_notas_estudiantes)
+### Imagen 23. Ejecución del notebook mediante el pipeline (dataflow) y generación de tabla delta (delta_notas_estudiantes)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/806937ab-56ed-4d98-aad9-9efafe626022">
 </p>
 
-### 24. Uso de tabla delta para generación del dashboard (lakeview)
+### Imagen 24. Uso de tabla delta para generación del dashboard (lakeview)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f59ba1b7-1a95-4693-8896-aadc32645a3e">
 </p>
 
-### 25. Generación de nuevo conjunto de datos con sql query (Total_Estudiantes) para conocer aprobados y reprobados en los diferentes cursos.
+### Imagen 25. Generación de nuevo conjunto de datos con sql query (Total_Estudiantes) para conocer aprobados y reprobados en los diferentes cursos.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ecc80251-f223-463c-868e-3ca1617579a3">
 </p>
 
-### 26 y 27. Creación de KPI's. graficas y tablas para el Dashboard
+### Imagen 26 y 27. Creación de KPI's. graficas y tablas para el Dashboard
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a51afbed-992d-434c-871d-c8e6b1fd786e">
