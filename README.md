@@ -1,6 +1,6 @@
 # ingenieria_ms_azure_data_prueba
 
-### Imagen resumen de servicios de Azure usados en la ejecución del proyecto:
+### Imagen 01. Resumen de servicios de Azure usados en la ejecución del proyecto:
 
 ![image](https://github.com/user-attachments/assets/738f1ed3-8ec0-408c-a5a3-62de0db51e89)
 
@@ -13,4 +13,10 @@
 ### La siguiente imagen muestra el proceso o secuencia del proyecto mediante un índice de contenido:
 
 ![image](https://github.com/user-attachments/assets/dcb07e14-4da3-4eb2-95de-6b4a2788fabd)
+
+### Imagen 02. Creación de servidor SQL, azuresqlservercvalladares
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/user-attachments/assets/4e331582-155a-43da-be67-cdfe6ac8402b">
+</p>
 
