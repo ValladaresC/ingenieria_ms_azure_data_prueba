@@ -128,6 +128,61 @@
   <img src="https://github.com/user-attachments/assets/1913f3c9-9f97-4ea1-bd2b-2cd20316b16d">
 </p>
 
+> [!NOTE]
+> El archivo Conect_Read_Load_ADLS_DBricks.dbc se encuentra en los descargables de este proyecto
+
+### Imagen 19 y 20. El pipeline incluye trigger y notificación mediante e-mail
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e5ea5e0-cc23-4f2a-8cfd-a293e6157a55">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e95ff026-da03-4948-8ac6-8b5f820d7f8e">
+</p>
+
+### 21. Creación del Cluster, carlos valladares's Cluster 14.3LTS
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f79bff1f-be0b-4e07-9fa9-93403453fa31">
+</p>
+
+### 22. Creación de la carpeta poryecto en Workspace y notebook Conect_Read_Load_ADLS_DBricks
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e233dcf-e075-45a5-858e-91c8551fdb94">
+</p>
+
+### 23. Ejecución del notebook mediante el pipeline (dataflow) y generación de tabla delta (delta_notas_estudiantes)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/806937ab-56ed-4d98-aad9-9efafe626022">
+</p>
+
+### 24. Uso de tabla delta para generación del dashboard (lakeview)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f59ba1b7-1a95-4693-8896-aadc32645a3e">
+</p>
+
+### 25. Generación de nuevo conjunto de datos con sql query (Total_Estudiantes) para conocer aprobados y reprobados en los diferentes cursos.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ecc80251-f223-463c-868e-3ca1617579a3">
+</p>
+
+### 26 y 27. Creación de KPI's. graficas y tablas para el Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a51afbed-992d-434c-871d-c8e6b1fd786e">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9038dc20-4df0-4e04-a591-69ab730033d6">
+</p>
+
+
+
 
 
 
