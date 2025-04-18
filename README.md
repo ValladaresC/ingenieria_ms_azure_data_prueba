@@ -10,6 +10,7 @@
 
 ### Por último fue generado un notebook que es procesado mediante un pipeline de Databricks DataFlow y las conexiones establecidas con el Azure Data Lake Storage cumplen con políticas de seguridad con Azure Key Vault.
 
+### La siguiente imagen muestra el proceso o secuencia del proyecto mediante un índice de contenido:
 
+![image](https://github.com/user-attachments/assets/dcb07e14-4da3-4eb2-95de-6b4a2788fabd)
 
-La siguiente imagen muestra el proceso o secuencia del proyecto mediante un índice de contenido:
