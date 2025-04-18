@@ -1,0 +1,45 @@
+CREATE TABLE Alumnos (
+    idAlumno INT PRIMARY KEY,
+    nombre VARCHAR(50),
+    apellido VARCHAR(50) );
+
+CREATE TABLE Cursos (
+    idCurso INT PRIMARY KEY,
+    nombreCurso VARCHAR(50) );
+
+CREATE TABLE Notas (
+    idNota INT PRIMARY KEY,
+    nota INT,
+    idAlumno INT,
+    idCurso INT,
+    FOREIGN KEY (idAlumno) REFERENCES Alumnos(idAlumno),
+    FOREIGN KEY (idCurso) REFERENCES Cursos(idCurso) );
+
+/*Data para la tabla Alumnos */
+INSERT INTO Alumnos (idAlumno,nombre,apellido) VALUES (1,’Carlos’,’Valladares’);
+INSERT INTO Alumnos (idAlumno,nombre,apellido) VALUES (2,’Maria’,’Robles’);
+INSERT INTO Alumnos (idAlumno,nombre,apellido) VALUES (3,’Pedro’,’Martinez’);
+INSERT INTO Alumnos (idAlumno,nombre,apellido) VALUES (4,’Josefa’,’Calzadilla’);
+INSERT INTO Alumnos (idAlumno,nombre,apellido) VALUES (5,’Felix’,’Arocha’); 
+
+/*Data para la tabla Cursos */
+INSERT INTO Cursos (idCurso,nombreCurso) VALUES (1,’Fundamentos’);
+INSERT INTO Cursos (idCurso,nombreCurso) VALUES (2,’Spark’);
+INSERT INTO Cursos (idCurso,nombreCurso) VALUES (3,’Cloud’);
+
+ /*Data para la tabla Notas */
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (1,8,1,1);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (2,10,1,2);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (3,10,1,3);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (4,5,2,1);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (5,9,2,2);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (6,8,2,3);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (7,5,3,1);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (8,3,3,2);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (9,5,3,3);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (10,2,4,1);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (11,4,4,2);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (12,4,4,3);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (13,6,5,1);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (14,7,5,2);
+INSERT INTO Notas (idNota,nota,idAlumno,idCurso) VALUES (15,3,5,3);
