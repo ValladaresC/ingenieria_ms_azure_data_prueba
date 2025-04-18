@@ -2,7 +2,7 @@
 
 ### Resumen de servicios de Azure usados en la ejecución del proyecto:
 
-![image](https://github.com/user-attachments/assets/738f1ed3-8ec0-408c-a5a3-62de0db51e89)
+![image](https://github.com/user-attachments/assets/e7c60e5c-5c69-43be-b863-49aa07ed17c6)
 
 ### Se realizó una ingesta de datos de prueba desde una base de datos Azure SQL hacia un Azure Data Lake Storage, automatizado mediante un pipeline realizado en Azure Data Factory y aplicando políticas de seguridad mediante Azure Key Vaults. 
 
@@ -12,7 +12,7 @@
 
 ### La siguiente imagen muestra el proceso o secuencia del proyecto mediante un índice de contenido:
 
-![image](https://github.com/user-attachments/assets/dcb07e14-4da3-4eb2-95de-6b4a2788fabd)
+![image](https://github.com/user-attachments/assets/d427b371-387f-44f9-9353-4cc2a52b90b3)
 
 ### Imagen 01. Servicios de Azure para el proyecto
 
@@ -57,7 +57,7 @@
   <img src="https://github.com/user-attachments/assets/c2e9fac8-3119-4957-9b85-4ed72f963611">
 </p>
 
-### Imagen 08 y 09. Creación del data sets proveniente de la base de datos en Azure sql
+### Imagen 08 y 09. Creación del dataset proveniente de la base de datos en Azure sql
 
 ### Sin parámetros para que pueda recorrer todas las tablas de la base de datos.
 
@@ -71,7 +71,7 @@
   <img src="https://github.com/user-attachments/assets/0db946d8-ce17-4895-86b5-5b2e2bd3525b">
 </p>
 
-### Imagen 10. Carga del data ser generado en ADLS
+### Imagen 10. Carga del dataset generado en ADLS
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/09c5d4ac-67e5-4f64-8bc1-1dfc1a64483f">
@@ -88,6 +88,11 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3825e2fe-9eb4-43c9-bcfa-8e700282fd8d">
 </p>
+
+> [!NOTE]
+> El linked service lksv_asql_01 tiene establecido la base de datos Azure SQL a la cual debe conectarse. Como opción, pudo haberse establecido como parámetro .
+
+### Imagen 12. Creación del Azure Data Lake Storage, adlseu2dsrpd01cv
 
 
 
