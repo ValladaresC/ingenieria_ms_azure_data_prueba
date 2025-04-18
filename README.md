@@ -129,7 +129,7 @@
 </p>
 
 > [!NOTE]
-> El archivo Conect_Read_Load_ADLS_DBricks se encuentra en la carpeta Notebooks de este proyecto en dos versione .dbc y .ipynb
+> El archivo Conect_Read_Load_ADLS_DBricks se encuentra en la carpeta Notebooks de este proyecto en dos versiones .dbc y .ipynb
 
 ### Imagen 19 y 20. El pipeline incluye trigger y notificación mediante e-mail
 
